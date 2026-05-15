@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for interstellar-qxvyfw on 2026-05-15T00:27:12Z
+# fly.toml app configuration file generated for interstellar-75o3a on 2026-05-15T02:01:17Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'interstellar-qxvyfw'
-primary_region = 'lax'
+app = 'interstellar-75o3a'
+primary_region = 'ams'
 
 [build]
 
